@@ -15,6 +15,12 @@ https://github.com/user-attachments/assets/f9c7853c-cfae-48c7-9e72-058174c1192e
 
 
 
+## Contrat Details
+Contract ID: CDRUJA7RWIJNPD4GHXIPC5PAPKXJKXGYJXZKUQ3HKLNLCXY4JBFZXS3E
+
+<img width="1923" height="1035" alt="Screenshot 2025-11-02 180147" src="https://github.com/user-attachments/assets/a7c6d328-7930-4d77-9082-2f5962d69556" />
+
+
 
 
 <img width="1923" height="1035" alt="image" src="https://github.com/user-attachments/assets/e175c9e2-720a-4f20-a14e-61dbcd479d11" />
