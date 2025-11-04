@@ -18,7 +18,6 @@ https://github.com/user-attachments/assets/f9c7853c-cfae-48c7-9e72-058174c1192e
 ## Contrat Details
 Contract ID: CDRUJA7RWIJNPD4GHXIPC5PAPKXJKXGYJXZKUQ3HKLNLCXY4JBFZXS3E
 
-<img width="1923" height="1035" alt="Screenshot 2025-11-02 180147" src="https://github.com/user-attachments/assets/a7c6d328-7930-4d77-9082-2f5962d69556" />
 
 
 
@@ -211,6 +210,7 @@ This creates an optimized build in the `dist/` folder that you can deploy to:
 - GitHub Pages
 - Any static hosting service
 
+<img width="1923" height="1035" alt="Screenshot 2025-11-02 180147" src="https://github.com/user-attachments/assets/a7c6d328-7930-4d77-9082-2f5962d69556" />
 ## ⚠️ Important Notes
 
 1. **Contract Method Names**: This project guesses common method names (`get_reserves`, `swap`). You MUST update these to match your actual contract.
