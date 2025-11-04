@@ -3,7 +3,21 @@
 A simple, educational DEX (Decentralized Exchange) frontend for swapping tokens on Stellar Soroban. This project demonstrates how to interact with a Soroban AMM (Automated Market Maker) smart contract using TypeScript and React.
 
 ![alt text](<Screenshot 2025-11-04 165505.png>)
+
 <video controls src="Stellar vidio1.mp4" title="Title"></video>
+## Video link
+
+Drive link - https://drive.google.com/file/d/1KmEzcN-glCuxx2CE7npQqRIQlwu3tEAK/view?usp=sharing
+
+
+
+https://github.com/user-attachments/assets/f9c7853c-cfae-48c7-9e72-058174c1192e
+
+
+
+
+
+<img width="1923" height="1035" alt="image" src="https://github.com/user-attachments/assets/e175c9e2-720a-4f20-a14e-61dbcd479d11" />
 
 ## 🎯 What This Project Does
 
