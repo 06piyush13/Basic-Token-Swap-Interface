@@ -7,7 +7,7 @@ A simple, educational DEX (Decentralized Exchange) frontend for swapping tokens 
 <video controls src="Stellar vidio1.mp4" title="Title"></video>
 ## Video link
 
-Drive link - https://drive.google.com/file/d/1KmEzcN-glCuxx2CE7npQqRIQlwu3tEAK/view?usp=sharing
+Youtube link - https://youtu.be/ZGt_1orN4vo
 
 
 
